@@ -1,0 +1,11 @@
+{
+  "name": "OperationalResearchFrontend",
+  "version": "1.0.0",
+  "description": "Frontend for my operational research app",
+  "main": "index.js",
+  "author": "Robert Koziarski",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^16.0.4"
+  }
+}
